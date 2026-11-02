@@ -5,7 +5,7 @@ I am a software engineering student, and I am interested in geomatics.
 
 ## Current Projects
 
-- 🔤 **[Schémaja](https://github.com/divinefeliciteyamba-cpu)**: A tool for Windows and Linux designed for the bulk installation of fonts (licensed under Apache-2.0).
+- 🔤 **[Skincare](https://github.com/divinefeliciteyamba-cpu/Skincare)**: A tool for Windows and Linux designed for the bulk installation of fonts (licensed under Apache-2.0).
 
 ## Technologies I use
 
